@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+
+
+header p{
+    margin-left: 50px;
+    margin-top: 5px;
+    color: gray;
+    opacity: 0.7;
+    }
+    header {
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-left: 20px;
+        height: 100px;
+        
+    }
+    
+ 
+#logo{
+    float:left ;
+}
+h3{ margin-left:50px;
+    font-size: 22px;
+    font-family: 'Pacifico', cursive;
+    }
+
+nav ul li {
+    
+    float:right;
+    margin-right: 2px;
+}
+
+main article section h1 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left:5px ;
+font-size:50px;
+font-weight: 600;
+}
+main article section p{
+    color: gray;
+    opacity: 0.7;
+}
+
+#print{
+    
+    width: 25px;
+    height: 120%;
+    float: right;
+}
+#chocolat{
+   
+    width: 100%;
+    margin-top: 50px;
+}
+
+
+article div p{
+    line-height: 50px;
+    margin-top: 35px;
+    font-size: 30px;
+    color: black;
+    opacity: 0.6;
+    padding-left: 10px;
+}
+.bg{
+    background-image:url('images/list-bg.png') ;
+    width:100%;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.leftCheckBox{
+    /* float: left; */
+    font-size: 40px;
+    position: relative;
+    font-family: 'Sniglet', cursive;
+    top:90px;
+
+}
+
+.rightCheckBox{
+    float: right;
+    font-size: 40px;
+    position: relative;
+    font-family: 'Sniglet', cursive;
+    bottom:230px;
+   
+}
+footer{
+    
+    margin-top: 300px;
+    height: 300px;
+    
+}
+
+
+input{
+    margin :20px;
+
+}
+
+#imgfooter{
+    float: left;
+}
+
+
+button{
+    
+    font-size: 20px;
+    background-color: #f6756af8;
+    float: right;
+    height: 50px;
+    width: 200px;
+}
+.name{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+footer p{
+    font-size: 25px;
+    opacity: 0.8;
+    color: black;
+    margin-top: 15px;
+}
+
+#logofooter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  
+}
+
+.footer{
+    text-align: center;
+    font-size: 30px;
+}
+
